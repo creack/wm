@@ -4,6 +4,6 @@
 
 // +build debug.wm
 
-package wm
+package wm // import "modernc.org/wm"
 
 const debug = true

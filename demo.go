@@ -14,9 +14,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/cznic/wm"
-	"github.com/cznic/wm/internal/demoapp"
 	"github.com/gdamore/tcell"
+	"modernc.org/wm"
+	"modernc.org/wm/internal/demoapp"
 )
 
 const (

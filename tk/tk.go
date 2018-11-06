@@ -4,5 +4,5 @@
 
 // Package tk is a wm[0] toolkit.
 //
-//  [0]: https://godoc.org/github.com/cznic/wm
-package tk
+//  [0]: https://godoc.org/gitlab.com/cznic/wm
+package tk // import "modernc.org/wm/tk"

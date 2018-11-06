@@ -2,11 +2,11 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package tk
+package tk // import "modernc.org/wm/tk"
 
 import (
-	"github.com/cznic/mathutil"
-	"github.com/cznic/wm"
+	"modernc.org/mathutil"
+	"modernc.org/wm"
 	"github.com/gdamore/tcell"
 )
 

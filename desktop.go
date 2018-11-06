@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package wm
+package wm // import "modernc.org/wm"
 
 // Desktop represents a virtual screen. An application has one or more
 // independent desktops, of which only one is visible at any given moment.

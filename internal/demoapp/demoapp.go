@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package demoapp is a terminal application skeleton.
-package demoapp
+package demoapp // import "modernc.org/wm/internal/demoapp"
 
 import (
 	"flag"
@@ -11,7 +11,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cznic/wm"
+	"modernc.org/wm"
 	"github.com/gdamore/tcell"
 )
 
@@ -72,7 +72,7 @@ func New() (*wm.Application, *wm.Desktop) {
 	}
 
 	const (
-		logo   = "github.com/cznic/wm"
+		logo   = "modernc.org/wm"
 		border = 1
 	)
 	pname := os.Args[0]

@@ -2,11 +2,11 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package wm
+package wm // import "modernc.org/wm"
 
 import (
-	"github.com/cznic/interval"
-	"github.com/cznic/mathutil"
+	"modernc.org/interval"
+	"modernc.org/mathutil"
 )
 
 // Position represents 2D coordinates.

@@ -14,10 +14,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/cznic/wm"
-	"github.com/cznic/wm/internal/demoapp"
 	"github.com/gdamore/tcell"
 	"github.com/golang/glog"
+	"modernc.org/wm"
+	"modernc.org/wm/internal/demoapp"
 )
 
 const (

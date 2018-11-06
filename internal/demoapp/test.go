@@ -17,10 +17,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cznic/mathutil"
-	"github.com/cznic/wm"
-	"github.com/cznic/wm/internal/demoapp"
-	"github.com/cznic/wm/tk"
+	"modernc.org/mathutil"
+	"modernc.org/wm"
+	"modernc.org/wm/internal/demoapp"
+	"modernc.org/wm/tk"
 	"github.com/gdamore/tcell"
 )
 

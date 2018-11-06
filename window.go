@@ -2,15 +2,15 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package wm
+package wm // import "modernc.org/wm"
 
 import (
 	"fmt"
 	"time"
 
-	"github.com/cznic/mathutil"
 	"github.com/gdamore/tcell"
 	"github.com/mattn/go-runewidth"
+	"modernc.org/mathutil"
 )
 
 const (
