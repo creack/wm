@@ -3,9 +3,9 @@ Package wm is a terminal window manager.
 
 Installation
 
-    $ go get github.com/cznic/wm
+    $ go get modernc.org/wm
 
-Documentation: [godoc.org/github.com/cznic/wm](http://godoc.org/github.com/cznic/wm)
+Documentation: [godoc.org/modernc.org/wm](http://godoc.org/modernc.org/wm)
 
 ----
 
@@ -17,4 +17,4 @@ Demo
 
 Screen shot (go run view_demo.go in tk/)
 
-![](https://github.com/cznic/wm/blob/images/tk.png)
+![](https://modernc.org/wm/blob/images/tk.png)
