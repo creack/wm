@@ -4,6 +4,6 @@
 
 // +build debug.wm
 
-package wm // import "modernc.org/wm"
+package wm // import "github.com/creack/wm"
 
 const debug = true

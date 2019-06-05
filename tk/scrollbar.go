@@ -2,12 +2,12 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package tk // import "modernc.org/wm/tk"
+package tk // import "github.com/creack/wm/tk"
 
 import (
-	"modernc.org/mathutil"
-	"modernc.org/wm"
+	"github.com/creack/wm"
 	"github.com/gdamore/tcell"
+	"modernc.org/mathutil"
 )
 
 // Scrollbar represents an UI element used to show that a View content

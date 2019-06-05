@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package tk // import "modernc.org/wm/tk"
+package tk // import "github.com/creack/wm/tk"
 
 import (
 	"fmt"

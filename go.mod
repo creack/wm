@@ -1,4 +1,4 @@
-module modernc.org/wm
+module github.com/creack/wm
 
 require (
 	github.com/gdamore/encoding v0.0.0-20151215212835-b23993cbb635 // indirect

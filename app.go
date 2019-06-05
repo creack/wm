@@ -44,7 +44,7 @@
 //
 //
 // 2016-12-16: Initial release of the accompanying toolkit package:
-// http://modernc.org/wm/tree/master/tk
+// http://github.com/creack/wm/tree/master/tk
 //
 // 2016-11-25: Windows now support views (viewports). See Windows.Origin and
 // friends.
@@ -53,7 +53,7 @@
 // is that any methods of Application, Desktop or Window must be called only
 // from a function that was enqueued by Application.Post or
 // Application.PostWait.
-package wm // import "modernc.org/wm"
+package wm // import "github.com/creack/wm"
 
 import (
 	"fmt"

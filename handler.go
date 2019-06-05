@@ -2,11 +2,12 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package wm // import "modernc.org/wm"
+package wm // import "github.com/creack/wm"
 
 import (
-	"github.com/gdamore/tcell"
 	"time"
+
+	"github.com/gdamore/tcell"
 )
 
 // PaintContext represents the context passed to paint handlers.

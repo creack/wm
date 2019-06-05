@@ -17,11 +17,11 @@ import (
 	"strings"
 	"time"
 
-	"modernc.org/mathutil"
-	"modernc.org/wm"
-	"modernc.org/wm/internal/demoapp"
-	"modernc.org/wm/tk"
+	"github.com/creack/wm"
+	"github.com/creack/wm/internal/demoapp"
+	"github.com/creack/wm/tk"
 	"github.com/gdamore/tcell"
+	"modernc.org/mathutil"
 )
 
 const (
